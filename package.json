@@ -14,7 +14,7 @@
     "projecte",
     "documentation"
   ],
-  "author": "Little_100",
+  "author": "PixelCube",
   "license": "MIT",
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.17",
